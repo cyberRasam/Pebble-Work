@@ -1,7 +1,7 @@
 
 ## Description
 
-This is a template for the backend capstone project. It includes a basic structure for the project, as well as a basic structure for the database. It also includes a basic structure for the tests.
+This is where we unite diverse talents to create a harmonious wave of positive change through collaborative volunteering. On this website organizations create and schedule programs where volunteers can join as participants or cooperators to hold an event. To support an organization or an specific event users can donate financial support to them as well.
 
 ## Setup
 
